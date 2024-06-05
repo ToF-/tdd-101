@@ -1,6 +1,8 @@
 import unittest
 from src.foo import foo
 
+assert 2+2 == 4   // works for pytest
+
 class TestStringMethods(unittest.TestCase):
 
     def test_upper(self):
@@ -22,3 +24,4 @@ class TestStringMethods(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
+

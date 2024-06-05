@@ -1,0 +1,5 @@
+buyer,amount,shipping,total
+Bertrand,10,3.33,13.33
+Alice,10,3.33,13.33
+Clara,10,3.33,13.33
+~ total,30.00,9.99,39.99

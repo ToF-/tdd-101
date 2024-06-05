@@ -1,0 +1,7 @@
+label,unit price,quantity,total,buyer
+pencils           ,  0.50    ,  20    ,10.00, Bertrand
+paper             ,  2.50    ,  4    ,10.00, Alice
+gift cards        ,  10.00    ,  1   ,10.00 ,Clara
+~ total           ,          ,        ,30.00, ~ total
+~ shipping        , 10.00    ,  1     ,10.00, ~ shipping
+~ grand total     ,          ,        ,40.00, ~ grand total
